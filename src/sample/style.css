@@ -1,0 +1,35 @@
+.left-side-background {
+    -fx-background-color:  linear-gradient(to top, #f43b47 0%, #453a94 100%);;
+    -fx-border-color: white;
+
+}
+
+.right-side-background {
+ -fx-background-color:  linear-gradient(to right, #434343 0%, black 100%);
+  -fx-border-color: white;
+}
+
+.transparent {
+    -fx-background-color: rgba(0,0,0,0);
+
+}
+
+.rol-user {
+    -fx-background-color: transparent;
+    -fx-border-radius: 60%;
+    -fx-border-color: white;
+    -fx-color:white;
+
+
+
+}
+
+.login-button {
+   -fx-background-color:  linear-gradient(to top, #4481eb 0%, #04befe 100%);
+  /* -fx-background-radius: 20%;*/
+      -fx-border-radius: 60%;
+      -fx-border-color: white;
+      -fx-background-radius: 25px 25px 25px 25px;
+
+
+}
